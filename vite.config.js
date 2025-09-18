@@ -8,5 +8,5 @@ export default defineConfig({
   plugins: [react(),
   tailwindcss(),
   ],
-  base:"ahlam-herbals-tayyaba-khatri"
+base: "/ahlam-herbals-tayyaba-khatri/",
 })
