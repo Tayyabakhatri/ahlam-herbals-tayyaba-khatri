@@ -52,9 +52,9 @@ const HeroSection = () => {
                             <div className="flex gap-3"><FaPhone className="mt-1" /><p>03122824203</p></div>
                             <div className="flex gap-3">< HiBuildingStorefront className="mt-1" /><p>contact@herbauraoil.store</p></div>
                         </div>
-                         <div className="my-3"> <button className="bg-[#D4AF37] px-8 py-4 text-white font-bold hover:bg-yellow-600">
-                    Buy Now
-                </button></div>
+                        <div className="my-3"> <button className="bg-[#D4AF37] px-8 py-4 text-white font-bold hover:bg-yellow-600">
+                            Buy Now
+                        </button></div>
 
 
                     </div>
@@ -63,7 +63,7 @@ const HeroSection = () => {
                 <div className="flex justify-center items-center">
                     <img className="w-32 md:w-48 lg:w-64 h-auto" src={shampoo} alt="" />
                 </div>
-               
+
             </div>
             <Choose />
             <TrendingProducts />
